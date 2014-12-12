@@ -11,7 +11,7 @@
         "type": "MIT-like",
         "url": "LICENSE.txt"
     }
-  ]
+  ],
   "description" : "The jQuery trap input plugin implements input trapping as described by the Web Accessibility Initiative.",
   "main": "jquery.trap.js",
   "keywords": [
